@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevanbrown_dev=self.webpackChunkevanbrown_dev||[]).push([[32],{8322:e=>{e.exports=JSON.parse('{"authors":[{"name":"Evan Brown","title":"Principal Systems Engineer","url":"https://github.com/ebrown17","socials":{"github":"https://github.com/ebrown17"},"key":"ebrown","page":null,"count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevanbrown_dev=self.webpackChunkevanbrown_dev||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Post Introduction","permalink":"/first-post","unlisted":false,"date":"2025-03-30T00:00:00.000Z"}]}')}}]);

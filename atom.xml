@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://evanbrown.dev</id>
+    <title>Evan Brown Blog</title>
+    <updated>2025-03-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://evanbrown.dev"/>
+    <subtitle>Evan Brown Blog</subtitle>
+    <icon>https://evanbrown.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Post Introduction]]></title>
+        <id>https://evanbrown.dev/first-post</id>
+        <link href="https://evanbrown.dev/first-post"/>
+        <updated>2025-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[git commit -m 'initial commit'... hmm wait.. actually, this is my first post or is it blog message?. I am not really sure what I want to call this, but this will be my first time writing in this medium, well I guess any medium that someone other then myself of a manager might read, so it will be interesting to see how the reading flow will change over time.]]></summary>
+        <content type="html"><![CDATA[<p><code>git commit -m 'initial commit'</code>... hmm wait.. actually, this is my first post or is it blog message?. I am not really sure what I want to call this, but this will be my first time writing in this medium, well I guess any medium that someone other then myself of a manager might read, so it will be interesting to see how the reading flow will change over time.</p>
+<p>I do a lot of some what interesting things at my job, solving problems that require piecing together many things from all over the internet. A high percentage of my job(much higher then what I would actually like), requires converting legacy applications/systems to more modern applications/systems or finding ways to get legacy applications to run on more modern systems.</p>
+<p>This first post is just me figuring out how to use Docusaurus, Github pages, and pointing them at my domain, so it won't have much content.</p>
+<p>I want to give back some of what I have learned over the years and I hope it can be a resource others can use.</p>]]></content>
+        <author>
+            <name>Evan Brown</name>
+            <uri>https://github.com/ebrown17</uri>
+        </author>
+        <category label="github" term="github"/>
+        <category label="blog" term="blog"/>
+        <category label="work" term="work"/>
+    </entry>
+</feed>
